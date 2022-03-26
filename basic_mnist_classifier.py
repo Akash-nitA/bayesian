@@ -52,3 +52,24 @@ test_accuracy=np.sum(tf.argmax(y_pred_test,axis=1)==tf.argmax(y_test,axis=1))/le
 
 print("train_accuracy: ",train_accuracy)
 print("test_accuracy: ",test_accuracy)
+
+'''
+train_accuracy:  0.9385333333333333
+test_accuracy:  0.9257
+'''
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
